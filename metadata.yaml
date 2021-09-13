@@ -1,0 +1,47 @@
+_repo: A-Saga-E-Legende-O-Sprook_66170
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bosscha, Johannes
+    alias: Bosscha, J. (Johannes)
+    birthdate: 1797
+    deathdate: 1874
+    gutenberg_agent_id: '53665'
+    url: http://www.gutenberg.org/2009/agents/53665
+    wikipedia: https://nl.wikipedia.org/wiki/Johannes_Bosscha_sr.
+  - agent_name: Des Amorie van der Hoeven, Abm. (Abraham), Jr.
+    aliases:
+    - Amorie van der Hoeven, Abm. des,‏ Jr.
+    - Hoeven, Abm. des Amorie van der,‏ Jr.
+    - Hoeven, Abr. Des Amorie van der
+    - Amorie van der Hoeven, Abraham des‏
+    birthdate: 1821
+    deathdate: 1848
+    gutenberg_agent_id: '53666'
+    url: http://www.gutenberg.org/2009/agents/53666
+  - agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jacob van
+    - Van Lennep, J. (Jacob)
+    - Lennep, Jakob van
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: https://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66170'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch language -- Miscellanea'
+- !lcsh 'Dutch literature'
+- !lcsh 'Dutch language -- Vowels'
+- !lcc 'PF'
+- GITenberg
+title: A-Saga, E-Legende, O-Sprook
+url: http://www.gutenberg.org/ebooks/66170
